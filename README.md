@@ -27,3 +27,25 @@ This project performs basic arithmetic operations such as addition, subtraction,
 ---
 
 ## 📂 Project Structure
+```
+Calculator/
+│── calculater.html                 # Main HTML file
+│── calculater.css                  # Stylesheet
+│── calculater.js                   # JavaScript logic
+│── Screenshot 2025-08-26 003432.png # Project screenshot
+└── README.md                       # Documentation
+```
+
+## 🛠️ Tech Stack
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla JS)**
+
+  ---
+
+## 📚 Future Improvements
+- Add **keyboard support** for calculator operations  
+- Enhance UI with **themes/dark mode**  
+- Add **scientific calculator features** (square root, power, etc.)  
+
+---
